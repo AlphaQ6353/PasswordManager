@@ -39,7 +39,7 @@ This is a 2-tier Password Manager Application developed using Python for the GUI
     ```bash
     # Clone the repo
 
-    git clone https://github.com/AlphaQ6353/PasswordManager.com
+    git clone https://github.com/AlphaQ6353/PasswordManager
     
     # Navigate to project directory
 
